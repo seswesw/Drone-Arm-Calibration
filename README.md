@@ -1,4 +1,4 @@
-# Drone Calibration via Robotic Arm with Arduino Uno
+# Drone Arm Calibration
 
 Проект направлен на автоматическую **калибровку дрона** (через QGroundControl или MAVLink) с помощью **роборуки** на базе Arduino Uno. Управление производится через Python-скрипт, который задаёт нужные углы поворота серво для имитации движений дрона.
 
